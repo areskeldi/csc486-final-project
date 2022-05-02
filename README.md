@@ -4,9 +4,9 @@ Berea College
 20 April 2022
 # CSC 486: Network Dynamics: Final Project
 
-Project Report: [Click here]()
+Project Report: [Click here](https://github.com/areskeldi/csc486-final-project/blob/main/CSC486%20final%20project%20write-up.pdf)
 
-Network nodes: [Click here](https://github.com/areskeldi/csc486-finalproject/blob/main/Last.fm-dataset.zip).      
+Network nodes: [Click here]().      
 
 Network edges: [Click here]()
 
