@@ -6,6 +6,8 @@ Berea College
 
 Project Report: [Click here](https://github.com/areskeldi/csc486-final-project/blob/main/CSC486%20final%20project%20write-up.pdf)
 
+Project Presentation: [Click here](https://docs.google.com/presentation/d/1P-AlIj9Nkojw-V-rB53uyYihlXjnN2_CeGMs2uslVDM/edit?usp=sharing)
+
 Network nodes: [Click here]().      
 
 Network edges: [Click here]()
